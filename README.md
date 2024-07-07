@@ -17,7 +17,7 @@ We introduce the Continual Compositional Generalization in Inference (C2Gen NLI)
 ```
 
 #### Data Download (OneDrive)
-link: https://mailnankaieducn-my.sharepoint.com/:u:/g/personal/fuxiyan_mail_nankai_edu_cn/EeNfHHyVvkBAjbfoXO_OnKYBn0gjhRf3EeuK_0Te5_LwGw?e=q8g41M
+link: https://mailnankaieducn-my.sharepoint.com/:u:/g/personal/fuxiyan_mail_nankai_edu_cn/ESEWwc_DriJJuYY1tMC09_4BqsmW5-JJCWCjCJTc7MkrbA?e=IUoogk
 
 ## Code
 **preliminary**: split data as you require from the provided dataset
