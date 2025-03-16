@@ -1,5 +1,5 @@
 # Exploring Continual Learning of Compositional Generalization in NLI
-Code and Data for the TACL paper (to appear) [Exploring Continual Learning of Compositional Generalization in NLI](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00680/123881)
+Code and Data for the TACL paper [Exploring Continual Learning of Compositional Generalization in NLI](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00680/123881)
 
 We introduce the Continual Compositional Generalization in Inference (C2Gen NLI) challenge, where a model continuously acquires knowledge of constituting primitive inference tasks as a basis for compositional inferences. We explore how continual learning affects compositional generalization in NLI, by designing a continual learning setup for compositional NLI inference tasks.
  
